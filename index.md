@@ -28,6 +28,12 @@ Syntax highlighted code block
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
+### Linux study notes
+[Linux常用命令](https://github.com/zhjping/linux_study_notes/blob/master/Linux%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4.md)  
+[Makefile语法笔记](https://github.com/zhjping/linux_study_notes/blob/master/Makefile%E8%AF%AD%E6%B3%95%E7%AC%94%E8%AE%B0.md)  
+[Shell脚本学习笔记](https://github.com/zhjping/linux_study_notes/blob/master/Shell%E8%84%9A%E6%9C%AC%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.md)  
+[常用工具使用教程](https://github.com/zhjping/linux_study_notes/blob/master/%E5%B8%B8%E7%94%A8%E5%B7%A5%E5%85%B7%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B.md)  
+
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zhjping/zhjping.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
